@@ -64,5 +64,5 @@ async def main():
 
 
 if __name__ == '__main__':
-    # Parse args.
+    # Run async function in asyncio loop.
     asyncio.run(main())
