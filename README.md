@@ -26,7 +26,7 @@ The Fashion API analyzes a picture and gives a list of possible clothes and acce
 The algorithm is trained on the most common types of apparel and is suitable for various fashion-related applications as well as other goals for visual recognition.
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/rapidapi/fashion_api_1.jpg"/>
+<img width="600" src="https://storage.googleapis.com/api4ai-static/visuals/fashion_api_1.jpg"/>
 </div>
 
 
