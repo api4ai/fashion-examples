@@ -35,24 +35,24 @@ The algorithm is trained on the most common types of apparel and is suitable for
 This project run to help API users with ready-to-use examples in a set of the most popular languages and technologies:
 
 * `python`:
-  * [requests](./python/requests/README.md)
-  * [aiohttp](./python/aiohttp/README.md)
+  * [requests](./python/requests)
+  * [aiohttp](./python/aiohttp)
 * `bash`:
-  * [curl](./bash/curl/README.md)
+  * [curl](./bash/curl)
 * `C#`:
-  * [RestSharp](./csharp/restsharp/README.md)
+  * [RestSharp](./csharp/restsharp)
 * `NodeJS`:
-  * [Axios](./nodejs/axios/README.md)
+  * [Axios](./nodejs/axios)
 * `Javascript`:
-  * [Axios](./js/axios/README.md)
+  * [Axios](./js/axios)
 
 Coming soon:
 
 * `PHP`:
-  * [cURL](./php/curl/README.md)
+  * [cURL](./php/curl)
 * `Javascript`:
-  * [fetch](./js/fetch/README.md)
-  * [jQuery](./js/jquery/README.md)
+  * [fetch](./js/fetch)
+  * [jQuery](./js/jquery)
 
 
 ## 🔗 Links
